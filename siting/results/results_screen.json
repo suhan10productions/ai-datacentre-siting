@@ -1,0 +1,131 @@
+{
+ "us_avg": 383.674,
+ "n_sites": 77,
+ "n_pass": 21,
+ "planned_gw": 33.14732971,
+ "twh_per_gw": 4.248350516017315,
+ "point": {
+  "pass_share": 0.14050391843765808,
+  "fail_both": 0.23712317308108136,
+  "fail_water_only": 0.14194205207970584,
+  "fail_carbon_only": 0.4804308564015548,
+  "avg_all": 440.0841566451218,
+  "avg_pass": 308.8611270906006,
+  "cut": 0.2981771271996456,
+  "saving_mt": 18.479020612326064
+ },
+ "ci95": {
+  "pass_share": [
+   0.06441969675009494,
+   0.24288872339509207
+  ],
+  "fail_both": [
+   0.09879060469587062,
+   0.3853298265195279
+  ],
+  "fail_water_only": [
+   0.054905909922193165,
+   0.26417747232477634
+  ],
+  "fail_carbon_only": [
+   0.31000897431282365,
+   0.6442549715117262
+  ],
+  "avg_all": [
+   406.63865239199436,
+   473.41021193627734
+  ],
+  "avg_pass": [
+   285.73919841713274,
+   334.48254553539243
+  ],
+  "cut": [
+   0.2229125772712742,
+   0.3648997190602245
+  ],
+  "saving_mt": [
+   11.034628490229569,
+   27.433522337044344
+  ]
+ },
+ "threshold_plus5pct": {
+  "pass_share": 0.19157892251224723,
+  "avg_pass": 331.3485421315455
+ },
+ "pass_states": {
+  "Iowa": 1821.0,
+  "Georgia": 681.0,
+  "Oklahoma": 521.0,
+  "Tennessee": 427.0,
+  "Oregon": 334.0,
+  "Pennsylvania": 261.0,
+  "Virginia": 190.0,
+  "Minnesota": 178.0,
+  "South Carolina": 129.0,
+  "North Carolina": 65.0,
+  "New Jersey": 50.0
+ },
+ "fail_states": {
+  "Texas": 6480.0,
+  "Wisconsin": 3165.0,
+  "Mississippi": 3054.0,
+  "Indiana": 2966.0,
+  "Ohio": 2852.0,
+  "New Mexico": 1968.0,
+  "Louisiana": 1632.0,
+  "Virginia": 1244.0,
+  "Nebraska": 995.0,
+  "Michigan": 988.0,
+  "Arizona": 605.0,
+  "Alabama": 504.0,
+  "Utah": 437.0,
+  "New York": 436.0,
+  "North Dakota": 400.0,
+  "Nevada": 300.0,
+  "Wyoming": 207.0,
+  "Idaho": 152.0,
+  "Missouri": 105.0
+ },
+ "threshold_grid": [
+  {
+   "carbon_factor": 0.9,
+   "water": "high",
+   "pass_share": 0.10438246550388569,
+   "avg_pass": 291.60590895953754
+  },
+  {
+   "carbon_factor": 0.9,
+   "water": "medium-high",
+   "pass_share": 0.09898233217290432,
+   "avg_pass": 292.0422840597379
+  },
+  {
+   "carbon_factor": 1.0,
+   "water": "high",
+   "pass_share": 0.14050391843765808,
+   "avg_pass": 308.8611270906006
+  },
+  {
+   "carbon_factor": 1.0,
+   "water": "medium-high",
+   "pass_share": 0.13032724016670122,
+   "avg_pass": 308.3322659722222
+  },
+  {
+   "carbon_factor": 1.1,
+   "water": "high",
+   "pass_share": 0.19157892251224723,
+   "avg_pass": 331.3485421315455
+  },
+  {
+   "carbon_factor": 1.1,
+   "water": "medium-high",
+   "pass_share": 0.13937774295605546,
+   "avg_pass": 313.80216688311685
+  }
+ ],
+ "unbuilt_gw": 21.296,
+ "unbuilt_fail_gw": 19.505,
+ "saving_all_mt": 18.47902061232606,
+ "saving_unbuilt_mt": 12.572108909716706
+}

@@ -1,0 +1,57 @@
+{
+ "base": {
+  "water": 0.4013503657181456,
+  "us_mean": 440.0841566451218,
+  "us_above": 0.7175540294826361
+ },
+ "capacity_uncertainty_90": {
+  "water": [
+   0.3394768085357154,
+   0.47078117527201613
+  ],
+  "us_mean": [
+   425.531237655114,
+   455.39870296867497
+  ],
+  "us_above": [
+   0.6530237282937212,
+   0.7719283765078707
+  ]
+ },
+ "loo_state_us_mean": [
+  420.71364510676284,
+  451.2288696063502
+ ],
+ "loo_state_extremes": {
+  "Indiana": 420.71364510676284,
+  "Texas": 451.2288696063502
+ },
+ "loo_country_water": [
+  0.38505110239450224,
+  0.5625911998446388
+ ],
+ "sample_gw": 37.728631373999995,
+ "sample_us_gw": 33.14732971,
+ "missing_lowstress_gw_to_reach_ci_edge": 22.630999843485064,
+ "ci_edge_pp": 15.719925995193918,
+ "missing_lowstress_share_of_sample": 0.5998362256808714,
+ "missing_clean_gw_to_reach_us_avg": 22.34679902130413,
+ "missing_clean_share_of_us_sample": 0.6741658895848395,
+ "missing_water_variants_gw": {
+  "ref_minus_10pp": 11.424006722948398,
+  "ref_minus_16pp": 22.630999843485064,
+  "ref_minus_20pp": 35.04725556732988
+ },
+ "missing_carbon_variants_gw": {
+  "clean_250g": 13.988105849369374,
+  "clean_300g": 22.34679902130413,
+  "clean_350g": 55.52788683579624
+ },
+ "ref_water": 0.40806891728035455,
+ "us_avg": 383.674,
+ "assumptions": {
+  "capacity_noise": "independent log-normal multiplier per campus, mean of log 0, sd 0.5, 5,000 draws, seed 20261025",
+  "missing_water": "extra capacity X (GW) with zero high-stress share: share' = share*W/(W+X); solve share' = ref - d",
+  "missing_carbon": "extra US capacity X (GW) at grid g: mean' = (mean*W + g*X)/(W+X); solve mean' = US average"
+ }
+}

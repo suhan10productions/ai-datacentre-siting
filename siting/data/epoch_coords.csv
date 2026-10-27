@@ -1,0 +1,95 @@
+site_id,state,country,lon,lat
+Amazon_Madison_Mega_Site,Mississippi,United States,-90.09137,32.59738
+Amazon_Ridgeland,Mississippi,United States,-90.18979,32.41046
+Anthropic-Amazon_New_Carlisle,Indiana,United States,-86.47123,41.67936
+Goodnight,Texas,United States,-101.30863,35.01971
+Google_Pryor__North_,Oklahoma,United States,-95.32349,36.24535
+Google_New_Albany,Ohio,United States,-82.76774,40.05677
+Google_Omaha,Nebraska,United States,-96.08888,41.34173
+Meta_Hyperion,Louisiana,United States,-91.63604,32.51059
+Meta_Prometheus,Ohio,United States,-82.74276,40.08778
+Microsoft_Fairwater_Wisconsin,Wisconsin,United States,-87.9152,42.68393
+Microsoft_Fairwater_Atlanta,Georgia,United States,-84.52452,33.45719
+OpenAI_Stargate_Abilene,Texas,United States,-99.78561,32.50131
+Colossus_1,Tennessee,United States,-90.15546,35.06017
+Colossus_2,Tennessee,United States,-90.03857,34.98929
+Alibaba_Zhangbei,Hebei,China,114.73237,41.18353
+OpenAI_Stargate_UAE,Abu Dhabi,United Arab Emirates,54.44278,24.15029
+Coreweave_Helios,Texas,United States,-100.86985,33.77506
+Google_Cedar_Rapids,Iowa,United States,-91.72237,41.91699
+QTS_Cedar_Rapids,Iowa,United States,-91.74293,41.90968
+Microsoft_Goodyear,Arizona,United States,-112.36634,33.411
+Google_Council_Bluffs__East_,Iowa,United States,-95.79685,41.17277
+Meta_Temple,Texas,United States,-97.36672,31.13095
+OpenAI_Stargate_Shackelford,Texas,United States,-99.54831,32.54376
+Vantage_TX1,Texas,United States,-98.78969,29.41781
+Google_Fort_Wayne,Indiana,United States,-85.04886,41.03177
+Crusoe_Abilene_Expansion,Texas,United States,-99.78198,32.49188
+OpenAI_Stargate_Lordstown,Ohio,United States,-80.88123,41.15311
+UNKNOWN_New_Mexico,New Mexico,United States,-106.68427,31.82032
+OpenAI_Stargate_Wisconsin,Wisconsin,United States,-87.85604,43.43041
+OpenAI_Stargate_Michigan,Michigan,United States,-83.88417,42.12123
+OpenAI_Stargate_Milam,Texas,United States,-97.01034,30.99631
+STACK_Infrastructure_NVA02,Virginia,United States,-77.53963,38.74482
+Stream_Phoenix,Arizona,United States,-112.36005,33.41268
+Meta_Montgomery,Alabama,United States,-86.32571,32.27003
+Meta_Jeffersonville,Indiana,United States,-85.6643,38.36947
+Meta_Rosemount,Minnesota,United States,-93.06196,44.73396
+Microsoft-Nebius_New_Jersey,New Jersey,United States,-75.01675,39.42675
+Meta_Kuna,Idaho,United States,-116.27015,43.46746
+Start_Campus_Sines_Data_Campus,Setúbal,Portugal,-8.81272,37.93497
+Microsoft_Project_Osmium,Iowa,United States,-93.78939,41.49704
+CoreWeave_Denton_TX,Texas,United States,-97.21003,33.21479
+CoreWeave_Ellendale_ND,North Dakota,United States,-98.57252,46.0153
+CoreWeave_Chester_VA,Virginia,United States,-77.32952,37.3591
+Google_Columbus,Ohio,United States,-82.99661,39.84913
+Google_Storey_County,Nevada,United States,-119.43018,39.49468
+Google_Midlothian,Texas,United States,-97.06137,32.44248
+Google_Kansas_City_East,Missouri,United States,-94.46422,39.17962
+VNET_Bayin_Ulanqab,Inner Mongolia,China,113.31431,40.98109
+Google_Red_Oak,Texas,United States,-96.79351,32.53767
+Oracle_Batam,Riau Islands,Indonesia,104.10497,1.18829
+DayOne_Kempas,Johor,Malaysia,103.71987,1.55943
+DayOne_Nusajaya,Johor,Malaysia,103.59785,1.42938
+Google_The_Dalles,Oregon,United States,-121.20715,45.62427
+CoreWeave_Marble_NC,North Carolina,United States,-83.91607,35.18747
+Meta_Cheyenne,Wyoming,United States,-104.8241,41.08009
+Meta_Sarpy,Nebraska,United States,-96.14507,41.11153
+Meta_Aiken,South Carolina,United States,-81.8428,33.64243
+Google_Lincoln,Nebraska,United States,-96.65364,40.90705
+Microsoft_SAT40,Texas,United States,-98.80424,29.41537
+Microsoft_SAT14,Texas,United States,-98.68086,29.47523
+Google_Papillion,Nebraska,United States,-96.14906,41.136
+Huawei_Horinger,Inner Mongolia,China,111.82789,40.53982
+Google_Mesa,Arizona,United States,-111.67636,33.35462
+Google_Lancaster,Ohio,United States,-82.68934,39.72534
+Bridge_Data_Centres_MY06,Johor,Malaysia,103.41588,1.69721
+CoreWeave_Muskogee_OK,Oklahoma,United States,-95.38847,35.69364
+CoreWeave_Dalton_1___2,Georgia,United States,-84.95105,34.71318
+Meta_Los_Lunas,New Mexico,United States,-106.78799,34.82765
+Meta_Gallatin,Tennessee,United States,-86.36847,36.40714
+QTS_Richmond_1,Virginia,United States,-77.24695,37.48546
+QTS_Richmond_2,Virginia,United States,-77.24281,37.48504
+QTS_Richmond_3,Virginia,United States,-77.25095,37.47916
+Google_Arcola,Virginia,United States,-77.53159,38.94189
+AWS_New_Albany,Ohio,United States,-82.74032,40.1059
+AWS_Berwick,Pennsylvania,United States,-76.14879,41.08505
+Google_Waltham_Cross,Hertfordshire,United Kingdom,-0.04904,51.69543
+Google_Bristow,Virginia,United States,-77.58298,38.77717
+CoreWeave_Norway,Agder,Norway,7.89842,58.25879
+Meta_Eagle_Mountain,Utah,United States,-112.01925,40.26529
+Southgate_Melbourne,Victoria,Australia,144.84334,-37.81721
+xAI_QTS_Atlanta,Georgia,United States,-84.41944,33.77825
+Meta_Huntsville,Alabama,United States,-86.6262,34.85387
+Meta-QTS_Hillsboro_2,Oregon,United States,-122.93779,45.5588
+Huawei_Wuhu,Anhui,China,118.29981,31.29177
+QTS_Eagle_Mountain,Utah,United States,-112.02862,40.26496
+Microsoft_Narvik_Norway,Narvik,Norway,17.59633,68.57628
+Anthropic_Barber_Lake,Texas,United States,-100.91981,32.39807
+Anthropic_Lake_Mariner,New York,United States,-78.60204,43.35643
+Core42_Lake_Mariner,New York,United States,-78.60604,43.35493
+EcoDataCenter_2,Dalarna County,Sweden,15.41698,60.52633
+Nebius_Mantsala,Uusimaa,Finland,25.26047,60.62935
+Nscale_Keflavik,Suðurnes,Iceland,-22.57644,63.97616
+CoreWeave_Lancaster_Greenfield_site,Pennsylvania,United States,-76.26218,40.04814
+Meta_Bowling_Green,Ohio,United States,-83.63613,41.46732

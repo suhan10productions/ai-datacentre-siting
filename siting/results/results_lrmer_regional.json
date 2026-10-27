@@ -1,0 +1,30 @@
+{
+ "Mid-case": {
+  "change_mt": -6.073006765918547,
+  "moved_share": 0.7793789103381746
+ },
+ "Low Renewable Energy Costs": {
+  "change_mt": -5.231867675844872,
+  "moved_share": 0.7372940723676774
+ },
+ "High Renewable Energy Costs": {
+  "change_mt": -7.736136357239001,
+  "moved_share": 0.7793789103381746
+ },
+ "Low Natural Gas Prices": {
+  "change_mt": -7.276263992552918,
+  "moved_share": 0.7372940723676774
+ },
+ "High Natural Gas Prices": {
+  "change_mt": -6.96878026546701,
+  "moved_share": 0.7793789103381746
+ },
+ "High Demand Growth": {
+  "change_mt": -6.189655221592097,
+  "moved_share": 0.7793789103381746
+ },
+ "mid_ci95": [
+  -7.959231051307728,
+  -2.780518213701523
+ ]
+}

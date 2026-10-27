@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+# PeeringDB records may not be redistributed (Acceptable Use Policy); download with fetch_peeringdb.py
+siting/data/peeringdb_fac.csv
+siting/data/peeringdb_water.csv
+# Large public inputs downloaded separately (see README)
+siting/data/ext/Cambium23_LRMER_GEAregions.xlsx
+siting/data/ext/counties.json
+siting/data/ext/ne_places.geojson

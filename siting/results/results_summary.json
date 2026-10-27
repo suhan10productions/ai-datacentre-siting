@@ -1,0 +1,24 @@
+{
+ "world_ci_2024": 471.08,
+ "gen_share_above_world_ci": 0.6134110506302057,
+ "n_pdb": 5254,
+ "n_pdb_dedup": 3900,
+ "n_cities": 7191,
+ "n_epoch": 94,
+ "epoch_current_gw": 14.076431374,
+ "epoch_planned_it_gw": 37.728631373999995,
+ "epoch_us_share_count": 0.8191489361702128,
+ "epoch_us_share_planned": 0.878572280595444,
+ "diff_epoch_minus_cities_pp": [
+  -13.0,
+  -2.4,
+  8.2
+ ],
+ "diff_pdb_minus_cities_pp": [
+  -10.7,
+  -6.6,
+  -2.5
+ ],
+ "pdb_nodata_excluded": 22,
+ "epoch_unmatched_capacity": 0
+}

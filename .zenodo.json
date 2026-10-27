@@ -1,0 +1,23 @@
+{
+  "title": "Replication package: Water-stress and grid-carbon exposure of new AI data centre capacity",
+  "upload_type": "software",
+  "description": "Code and data behind the paper 'Water-Stress and Grid-Carbon Exposure of New AI Data Centre Capacity against Population and Grid Benchmarks, with Emissions Projected to 2031' (Suhan Ali). Includes the projection model, the siting analysis, every reported result, a data dictionary and instructions to regenerate all tables and figures. PeeringDB facility records are not included (Acceptable Use Policy); a script downloads exactly the facility set used, from the included ID list.",
+  "creators": [
+    {
+      "name": "Ali, Suhan",
+      "affiliation": "Lahore Grammar School, Lahore, Pakistan",
+      "orcid": "0009-0004-5079-7684"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "data centres",
+    "artificial intelligence",
+    "water stress",
+    "grid carbon intensity",
+    "marginal emissions",
+    "environmental impact assessment",
+    "siting"
+  ],
+  "version": "1.1.0"
+}

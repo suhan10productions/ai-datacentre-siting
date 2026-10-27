@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "Replication package: Water-stress and grid-carbon exposure of new AI data centre capacity"
+type: software
+authors:
+  - family-names: Ali
+    given-names: Suhan
+    affiliation: "Lahore Grammar School, Lahore, Pakistan"
+    orcid: "https://orcid.org/0009-0004-5079-7684"
+date-released: 2026-10-27
+version: "1.1.0"
+license: MIT
+abstract: >-
+  Code and data behind the paper "Water-Stress and Grid-Carbon Exposure of New
+  AI Data Centre Capacity against Population and Grid Benchmarks, with Emissions
+  Projected to 2031": a benchmarked siting analysis of 5,254 data centres and 94
+  large AI campuses against water stress (WRI Aqueduct 4.0 and a monthly
+  water-gap metric), average and marginal grid carbon intensity, an illustrative
+  pre-approval screen, and a calibrated projection of data centre energy,
+  emissions and water to 2031.
+keywords:
+  - data centres
+  - artificial intelligence
+  - water stress
+  - grid carbon intensity
+  - marginal emissions
+  - environmental impact assessment
+  - siting

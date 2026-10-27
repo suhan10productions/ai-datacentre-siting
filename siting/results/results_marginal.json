@@ -1,0 +1,80 @@
+{
+ "point": {
+  "campus_over_us": 0.04923165840647248,
+  "saving_avgscreen": -7.968819102300242,
+  "pass_share_mscreen": 0.2339654439090563,
+  "saving_mscreen": 16.195688015533715
+ },
+ "ci95": {
+  "campus_over_us": [
+   -0.0120284501811882,
+   0.1103842149924095
+  ],
+  "saving_avgscreen": [
+   -16.639213496503643,
+   1.2427035933789674
+  ],
+  "pass_share_mscreen": [
+   0.10202612249123537,
+   0.3823976298175102
+  ],
+  "saving_mscreen": [
+   9.224164788825162,
+   23.965385937597496
+  ]
+ },
+ "us_nonbaseload_lb": 1393.7,
+ "campus_nonbaseload_lb": 1462.3141623211009,
+ "campus_over_us": 0.04923165840647248,
+ "us_total_lb": 771.5,
+ "nonbaseload_over_total_us": 1.8064808813998705,
+ "pass_nonbaseload_lb": 1587.0696597213855,
+ "fail_nonbaseload_lb": 1441.9200772200772,
+ "screen_saving_marginal_mt": -7.96881910230022,
+ "split_states": [
+  "Mississippi",
+  "Nevada",
+  "Pennsylvania",
+  "Wisconsin",
+  "Missouri",
+  "Michigan",
+  "Indiana"
+ ],
+ "corr_average_vs_marginal": 0.4087993579660478,
+ "loo_avgscreen_change_mt": {
+  "Alabama": 7.773536835649543,
+  "Arizona": 7.587972660218299,
+  "Georgia": 9.860446830923198,
+  "Idaho": 7.97653143555763,
+  "Indiana": 8.941776538959564,
+  "Iowa": 1.2883009077295025,
+  "Louisiana": 6.580129743295406,
+  "Michigan": 7.818469273069961,
+  "Minnesota": 7.5553301684631,
+  "Mississippi": 5.3701320297507245,
+  "Missouri": 8.015666226607236,
+  "Nebraska": 8.332221301329747,
+  "Nevada": 7.984040812676672,
+  "New Jersey": 8.214031396656521,
+  "New Mexico": 6.729966543594013,
+  "New York": 7.39920271361946,
+  "North Carolina": 8.20214874960742,
+  "North Dakota": 8.114910438593514,
+  "Ohio": 8.904380332695528,
+  "Oklahoma": 8.512830529973462,
+  "Oregon": 7.8571423544564984,
+  "Pennsylvania": 9.310260734259735,
+  "South Carolina": 8.438433386943194,
+  "Tennessee": 7.532530403817504,
+  "Texas": 3.945862272649279,
+  "Utah": 7.990992060415268,
+  "Virginia": 7.9195200378578425,
+  "Wisconsin": 8.741748887313896,
+  "Wyoming": 7.9821941097999
+ },
+ "avgscreen_change_without_iowa_mt": 1.2883009077295025,
+ "loo_range_mt": [
+  1.2883009077295025,
+  9.860446830923198
+ ]
+}

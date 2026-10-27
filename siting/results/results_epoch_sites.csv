@@ -1,0 +1,95 @@
+Name,Owner,name_0,name_1,bws_label,bws_cat,grid_ci,high_water,high_carbon,current_mw,planned_it_mw
+Microsoft Fairwater Wisconsin,Microsoft #confident,United States,Wisconsin,Medium - High (20-40%),2.0,523.994,False,True,369.0,2263.0
+Anthropic-Amazon New Carlisle,Amazon #confident,United States,Indiana,High (40-80%),3.0,637.194,True,True,910.0,1925.0
+OpenAI Stargate New Mexico,Oracle #confident,United States,New Mexico,Extremely High (>80%),4.0,361.531,True,False,0.0,1750.0
+Meta Hyperion,Meta #confident,United States,Louisiana,Medium - High (20-40%),2.0,459.23,False,False,0.0,1632.0
+Colossus 2,SpaceXAI #confident,United States,Mississippi,Low (<10%),0.0,463.518,False,False,946.0,1531.0
+OpenAI Stargate Shackelford,Oracle #confident,United States,Texas,High (40-80%),3.0,394.22,True,False,0.0,1400.0
+QTS Cedar Rapids,,United States,Iowa,Low - Medium (10-20%),1.0,274.859,False,False,0.0,1133.0
+Meta Prometheus,Meta #confident,United States,Ohio,Medium - High (20-40%),2.0,530.261,False,True,471.0,1022.0
+Goodnight,Google #speculative,United States,Texas,Extremely High (>80%),4.0,394.22,True,False,0.0,1006.0
+OpenAI Stargate UAE,G42 #likely,United Arab Emirates,Abu Dhabi,Extremely High (>80%),4.0,467.51,True,False,0.0,1000.0
+OpenAI Stargate Michigan,Oracle #confident,United States,Michigan,Low (<10%),0.0,454.495,False,False,0.0,988.0
+OpenAI Stargate Wisconsin,Oracle #confident,United States,Wisconsin,Medium - High (20-40%),2.0,523.994,False,True,0.0,902.0
+Google Fort Wayne,Google #confident,United States,Indiana,Low (<10%),0.0,637.194,False,True,0.0,863.0
+OpenAI Stargate Milam,Softbank #confident,United States,Texas,Medium - High (20-40%),2.0,394.22,False,False,0.0,857.0
+OpenAI Stargate Abilene,Oracle #confident,United States,Texas,High (40-80%),3.0,394.22,True,False,421.0,843.0
+Amazon Ridgeland,Amazon #confident,United States,Mississippi,Medium - High (20-40%),2.0,463.518,False,False,228.0,840.0
+VNET Bayin Ulanqab,VNET #confident,China,Nei Mongol,Extremely High (>80%),4.0,555.4,True,True,221.0,700.0
+Amazon Madison Mega Site,Amazon #confident,United States,Mississippi,Low (<10%),0.0,463.518,False,False,284.0,683.0
+Crusoe Abilene Expansion,Microsoft #confident,United States,Texas,High (40-80%),3.0,394.22,True,False,0.0,672.0
+Microsoft Fairwater Atlanta,Microsoft #confident,United States,Georgia,Low - Medium (10-20%),1.0,354.334,False,False,636.0,636.0
+Coreweave Helios,CoreWeave #confident,United States,Texas,Extremely High (>80%),4.0,394.22,True,False,132.0,528.0
+DayOne Nusajaya,,Malaysia,Johor,Low (<10%),0.0,600.44,False,True,473.0,473.0
+Huawei Wuhu,Huawei #confident,China,Anhui,Low - Medium (10-20%),1.0,555.4,False,True,157.0,457.0
+Meta Bowling Green,Meta #confident,United States,Ohio,Low (<10%),0.0,530.261,False,True,0.0,422.0
+DayOne Kempas,,Malaysia,Johor,Low (<10%),0.0,600.44,False,True,421.691664,421.691664
+CoreWeave Ellendale ND,CoreWeave #confident,United States,North Dakota,Low (<10%),0.0,554.253,False,True,68.0,400.0
+Google Omaha,Google #confident,United States,Nebraska,Low (<10%),0.0,442.505,False,False,237.0,395.0
+Google Columbus,Google #confident,United States,Ohio,Medium - High (20-40%),2.0,530.261,False,True,303.0,386.0
+Anthropic Lake Mariner,AI XPV Platform #confident,United States,New York,High (40-80%),3.0,269.633,True,False,42.0,378.0
+Google Pryor (North),Google #confident,United States,Oklahoma,Low (<10%),0.0,338.872,False,False,368.0,368.0
+Meta Montgomery,Meta #confident,United States,Alabama,Medium - High (20-40%),2.0,390.827,False,False,153.0,358.0
+STACK Infrastructure NVA02,,United States,Virginia,High (40-80%),3.0,350.842,True,False,85.0,348.0
+Huawei Horinger,Huawei #confident,China,Nei Mongol,Extremely High (>80%),4.0,555.4,True,True,184.3,346.4
+Colossus 1,SpaceXAI #confident,United States,Tennessee,Low (<10%),0.0,341.633,False,False,340.0,340.0
+AWS New Albany,Amazon #confident,United States,Ohio,Medium - High (20-40%),2.0,530.261,False,True,213.0,338.0
+Google New Albany,Google #confident,United States,Ohio,Medium - High (20-40%),2.0,530.261,False,True,333.0,333.0
+QTS Eagle Mountain,Meta #speculative,United States,Utah,High (40-80%),3.0,606.106,True,True,0.0,304.0
+Google Storey County,Google #confident,United States,Nevada,High (40-80%),3.0,342.856,True,False,161.0,300.0
+Google Lincoln,Google #confident,United States,Nebraska,Low (<10%),0.0,442.505,False,False,141.0,283.0
+CoreWeave Denton TX,CoreWeave #confident,United States,Texas,High (40-80%),3.0,394.22,True,False,262.0,282.0
+Google Cedar Rapids,Google #confident,United States,Iowa,Low - Medium (10-20%),1.0,274.859,False,False,0.0,261.0
+Bridge Data Centres MY06,ByteDance #likely,Malaysia,Johor,Low (<10%),0.0,600.44,False,True,243.0,243.0
+QTS Richmond 3,,United States,Virginia,High (40-80%),3.0,350.842,True,False,144.0,240.0
+QTS Richmond 1,,United States,Virginia,High (40-80%),3.0,350.842,True,False,238.0,238.0
+Google Bristow,Google,United States,Virginia,High (40-80%),3.0,350.842,True,False,238.0,238.0
+Google Council Bluffs (East),Google #confident,United States,Iowa,Low (<10%),0.0,274.859,False,False,237.0,237.0
+Google Papillion,Google #confident,United States,Nebraska,Low (<10%),0.0,442.505,False,False,237.0,237.0
+Start Campus Sines Data Campus,Nscale #confident,Portugal,Setúbal,Extremely High (>80%),4.0,110.64,True,False,33.0,233.0
+Stream Phoenix,,United States,Arizona,Extremely High (>80%),4.0,328.784,True,False,64.0,220.0
+Meta Los Lunas,Meta #confident,United States,New Mexico,High (40-80%),3.0,361.531,True,False,87.0,218.0
+OpenAI Stargate Lordstown,Softbank #confident,United States,Ohio,Low (<10%),0.0,530.261,False,True,0.0,214.0
+Anthropic Barber Lake,Cipher Mining #confident,United States,Texas,Extremely High (>80%),4.0,394.22,True,False,0.0,207.0
+Meta Cheyenne,Meta #confident,United States,Wyoming,Extremely High (>80%),4.0,651.024,True,True,152.0,207.0
+Microsoft Goodyear,Microsoft #confident,United States,Arizona,Extremely High (>80%),4.0,328.784,True,False,202.0,202.0
+Microsoft Project Osmium,Microsoft #confident,United States,Iowa,Low (<10%),0.0,274.859,False,False,190.0,190.0
+Google Mesa,Google #confident,United States,Arizona,Extremely High (>80%),4.0,328.784,True,False,183.0,183.0
+QTS Richmond 2,,United States,Virginia,High (40-80%),3.0,350.842,True,False,180.0,180.0
+Meta-QTS Hillsboro 2,Meta #likely,United States,Oregon,Low (<10%),0.0,222.253,False,False,180.0,180.0
+Meta Jeffersonville,Meta #confident,United States,Indiana,Low (<10%),0.0,637.194,False,True,178.0,178.0
+Meta Rosemount,Meta #confident,United States,Minnesota,Low (<10%),0.0,342.755,False,False,178.0,178.0
+Meta Temple,Meta #confident,United States,Texas,Medium - High (20-40%),2.0,394.22,False,False,178.0,178.0
+Alibaba Zhangbei,Alibaba #confident,China,Hebei,Extremely High (>80%),4.0,555.4,True,True,169.0,169.0
+AWS Berwick,Amazon #confident,United States,Pennsylvania,Low (<10%),0.0,378.047,False,False,108.0,169.0
+Google Red Oak,Google #confident,United States,Texas,Low (<10%),0.0,394.22,False,False,77.0,154.0
+Google The Dalles,Google #confident,United States,Oregon,Low (<10%),0.0,222.253,False,False,154.0,154.0
+CoreWeave Muskogee OK,CoreWeave #confident,United States,Oklahoma,Low (<10%),0.0,338.872,False,False,0.0,153.0
+Meta Kuna,Meta #confident,United States,Idaho,Extremely High (>80%),4.0,188.216,True,False,152.0,152.0
+Meta Huntsville,Meta #confident,United States,Alabama,Low (<10%),0.0,390.827,False,False,146.0,146.0
+Nebius Mantsala,Nebius #confident,Finland,Southern Finland,Low - Medium (10-20%),1.0,66.63,False,False,75.0,145.0
+Google Lancaster,Google #confident,United States,Ohio,Low (<10%),0.0,530.261,False,True,137.0,137.0
+Meta Eagle Mountain,Meta #confident,United States,Utah,High (40-80%),3.0,606.106,True,True,133.0,133.0
+Meta Aiken,Meta #confident,United States,South Carolina,Medium - High (20-40%),2.0,289.709,False,False,69.0,129.0
+Vantage TX1,,United States,Texas,High (40-80%),3.0,394.22,True,False,32.0,128.0
+CoreWeave Chester VA,CoreWeave #confident,United States,Virginia,Medium - High (20-40%),2.0,350.842,False,False,82.0,113.0
+Google Kansas City East,Google #confident,United States,Missouri,Low (<10%),0.0,622.558,False,True,105.0,105.0
+Google Midlothian,Google #confident,United States,Texas,Extremely High (>80%),4.0,394.22,True,False,103.0,103.0
+Microsoft Narvik Norway,Nscale #likely,Norway,Nordland,Low (<10%),0.0,29.66,False,False,0.0,92.0
+CoreWeave Lancaster Greenfield site,CoreWeave #confident,United States,Pennsylvania,Low (<10%),0.0,378.047,False,False,0.0,92.0
+Google Waltham Cross,Google #confident,United Kingdom,England,High (40-80%),3.0,216.5,True,False,88.0,88.0
+Meta Gallatin,Meta #confident,United States,Tennessee,Low (<10%),0.0,341.633,False,False,87.0,87.0
+Meta Sarpy,Meta #confident,United States,Nebraska,Low (<10%),0.0,442.505,False,False,80.0,80.0
+Google Arcola,Google #confident,United States,Virginia,Low (<10%),0.0,350.842,False,False,77.0,77.0
+Microsoft SAT40,Microsoft #confident,United States,Texas,High (40-80%),3.0,394.22,True,False,75.0,75.0
+Oracle Batam,Oracle #likely,Indonesia,Kepulauan Riau,Low (<10%),0.0,680.25,False,True,72.0,72.0
+CoreWeave Marble NC,CoreWeave #confident,United States,North Carolina,Low (<10%),0.0,350.202,False,False,65.0,65.0
+Core42 Lake Mariner,Core42 #confident,United States,New York,High (40-80%),3.0,269.633,True,False,58.0,58.0
+Microsoft-Nebius New Jersey,Nebius #confident,United States,New Jersey,Medium - High (20-40%),2.0,267.865,False,False,50.0,50.0
+EcoDataCenter 2,Mistral AI #confident,Sweden,Dalarna,Low (<10%),0.0,34.91,False,False,0.0,48.0
+Microsoft SAT14,Microsoft #confident,United States,Texas,High (40-80%),3.0,394.22,True,False,47.0,47.0
+CoreWeave Norway,CoreWeave #confident,Norway,Vest-Agder,Low (<10%),0.0,29.66,False,False,42.0,42.0
+Southgate Melbourne,Firmus #confident,Australia,Victoria,High (40-80%),3.0,553.83,True,True,41.0,41.0
+CoreWeave Dalton 1 & 2,CoreWeave #confident,United States,Georgia,Medium - High (20-40%),2.0,354.334,False,False,28.0,28.0
+xAI QTS Atlanta,SpaceXAI #confident,United States,Georgia,Medium - High (20-40%),2.0,354.334,False,False,17.32971,17.32971
+Nscale Keflavik,Nscale #confident,Iceland,Suðurnes,Low (<10%),0.0,27.82,False,False,5.11,10.21

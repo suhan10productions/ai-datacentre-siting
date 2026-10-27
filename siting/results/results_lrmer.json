@@ -1,0 +1,263 @@
+{
+ "settings": {
+  "start": 2027,
+  "life": 20,
+  "discount": 0.03,
+  "stage": "combustion CO2",
+  "units": "kg/MWh end-use"
+ },
+ "levelised": {
+  "Mid-case": {
+   "CAISO": 77.76143929424323,
+   "ERCOT": 101.22842829631271,
+   "FRCC": 228.70208579131528,
+   "ISONE": 117.67430006915784,
+   "MISO_Central": 173.5648063158462,
+   "MISO_North": 107.51975703470242,
+   "MISO_South": 142.03132111917836,
+   "NorthernGrid_East": 126.59139929677487,
+   "NorthernGrid_South": 110.15537148740249,
+   "NorthernGrid_West": 32.55509189567004,
+   "NYISO": 96.78384839086756,
+   "PJM_East": 218.38726540039585,
+   "PJM_West": 120.14807740124125,
+   "SERTP": 189.78771623080908,
+   "SPP_North": 140.57393183003603,
+   "SPP_South": 125.1693688306515,
+   "WestConnect_North": 137.10703859430566,
+   "WestConnect_South": 122.01512310477632
+  },
+  "Low Renewable Energy Costs": {
+   "CAISO": 77.20035052240233,
+   "ERCOT": 93.82686697400797,
+   "FRCC": 175.5680043547611,
+   "ISONE": 122.50461366548049,
+   "MISO_Central": 151.11570869159434,
+   "MISO_North": 104.50436525605818,
+   "MISO_South": 134.835633089477,
+   "NorthernGrid_East": 132.34070676632854,
+   "NorthernGrid_South": 110.87311996278562,
+   "NorthernGrid_West": 28.250277579514094,
+   "NYISO": 105.39708945946124,
+   "PJM_East": 220.49512378936743,
+   "PJM_West": 88.03277369248278,
+   "SERTP": 147.48010842063272,
+   "SPP_North": 121.42442037110415,
+   "SPP_South": 110.58816782346932,
+   "WestConnect_North": 143.19578488594803,
+   "WestConnect_South": 125.45601702387363
+  },
+  "High Renewable Energy Costs": {
+   "CAISO": 79.52443911556797,
+   "ERCOT": 120.72485071106318,
+   "FRCC": 264.77628898844046,
+   "ISONE": 116.74204256068809,
+   "MISO_Central": 213.79843094912414,
+   "MISO_North": 133.7175349732662,
+   "MISO_South": 205.3754148340018,
+   "NorthernGrid_East": 198.79374738507732,
+   "NorthernGrid_South": 150.13323608948383,
+   "NorthernGrid_West": 46.08023789647222,
+   "NYISO": 94.57763005322337,
+   "PJM_East": 246.88205539742,
+   "PJM_West": 157.41890687365466,
+   "SERTP": 223.32515547545003,
+   "SPP_North": 160.91429876438113,
+   "SPP_South": 143.8617610410609,
+   "WestConnect_North": 193.64874791684667,
+   "WestConnect_South": 179.99085776989014
+  },
+  "Low Natural Gas Prices": {
+   "CAISO": 66.4019723587049,
+   "ERCOT": 98.79416347303953,
+   "FRCC": 267.1368211724045,
+   "ISONE": 122.6835510102083,
+   "MISO_Central": 162.1930950871514,
+   "MISO_North": 103.35800407680115,
+   "MISO_South": 187.54892781350827,
+   "NorthernGrid_East": 160.27356474779168,
+   "NorthernGrid_South": 148.37256980392746,
+   "NorthernGrid_West": 37.807652138277895,
+   "NYISO": 103.05336951777294,
+   "PJM_East": 221.4936209140402,
+   "PJM_West": 111.09748666614824,
+   "SERTP": 161.8997364470181,
+   "SPP_North": 108.3637655041994,
+   "SPP_South": 103.19817089122398,
+   "WestConnect_North": 146.53703572498486,
+   "WestConnect_South": 166.15470724798857
+  },
+  "High Natural Gas Prices": {
+   "CAISO": 82.68886499780454,
+   "ERCOT": 97.11409107119772,
+   "FRCC": 146.11687035030167,
+   "ISONE": 110.53523781132897,
+   "MISO_Central": 177.75711653743832,
+   "MISO_North": 125.30304306580274,
+   "MISO_South": 159.83843744123436,
+   "NorthernGrid_East": 118.81805028263406,
+   "NorthernGrid_South": 112.69383603336037,
+   "NorthernGrid_West": 27.1949108896016,
+   "NYISO": 97.25134746897984,
+   "PJM_East": 282.12523125584653,
+   "PJM_West": 101.8420982053053,
+   "SERTP": 222.90230857191312,
+   "SPP_North": 144.75150520064136,
+   "SPP_South": 122.9314985366427,
+   "WestConnect_North": 142.04512799655842,
+   "WestConnect_South": 126.7258110211345
+  },
+  "High Demand Growth": {
+   "CAISO": 72.70684454967129,
+   "ERCOT": 97.65272397425767,
+   "FRCC": 216.06568743845605,
+   "ISONE": 115.77915505591218,
+   "MISO_Central": 196.83033629372403,
+   "MISO_North": 142.3988098013015,
+   "MISO_South": 183.34948075083477,
+   "NorthernGrid_East": 154.681711843678,
+   "NorthernGrid_South": 139.2162126418564,
+   "NorthernGrid_West": 42.07398938303614,
+   "NYISO": 104.45611328499305,
+   "PJM_East": 256.38591961300904,
+   "PJM_West": 146.12572549499706,
+   "SERTP": 209.58683069785187,
+   "SPP_North": 173.329121936478,
+   "SPP_South": 125.63406701016028,
+   "WestConnect_North": 159.10113546002515,
+   "WestConnect_South": 139.00050533734083
+  }
+ },
+ "n_places": 676,
+ "campus_regions": {
+  "ERCOT": 5.47,
+  "MISO_Central": 3.95,
+  "MISO_North": 5.16,
+  "MISO_South": 4.69,
+  "NYISO": 0.44,
+  "NorthernGrid_East": 0.15,
+  "NorthernGrid_South": 0.74,
+  "NorthernGrid_West": 0.33,
+  "PJM_East": 4.6,
+  "SERTP": 1.81,
+  "SPP_North": 1.4,
+  "SPP_South": 1.63,
+  "WestConnect_North": 0.21,
+  "WestConnect_South": 2.57
+ },
+ "mid": {
+  "ref": 137.44748086325336,
+  "campus": 141.91600412532767,
+  "campus_over_ref": 0.03251076872423764,
+  "avgscreen_change_mt": -0.4037418363675605,
+  "lrscreen_pass": 0.22062108966182545,
+  "lrscreen_change_mt": -5.257162142753645
+ },
+ "mid_ci95": {
+  "ref": [
+   124.98360800725506,
+   151.30290548433152
+  ],
+  "campus": [
+   130.93104653462862,
+   154.11612256803602
+  ],
+  "campus_over_ref": [
+   -0.09052709881101105,
+   0.1737102726101093
+  ],
+  "avgscreen_change_mt": [
+   -3.7710213655284406,
+   3.6754015028762463
+  ],
+  "lrscreen_pass": [
+   0.09632641838718684,
+   0.5174040997760754
+  ],
+  "lrscreen_change_mt": [
+   -7.260414287070856,
+   -1.7388039535999171
+  ]
+ },
+ "by_scenario": {
+  "Mid-case": {
+   "ref": 137.44748086325336,
+   "campus": 141.91600412532767,
+   "campus_over_ref": 0.03251076872423764,
+   "avgscreen_change_mt": -0.4037418363675605,
+   "lrscreen_pass": 0.22062108966182545,
+   "lrscreen_change_mt": -5.257162142753645
+  },
+  "Low Renewable Energy Costs": {
+   "ref": 127.06963551372846,
+   "campus": 133.4091989062409,
+   "campus_over_ref": 0.049890466490143615,
+   "avgscreen_change_mt": -1.2952901056292305,
+   "lrscreen_pass": 0.2627059276323227,
+   "lrscreen_change_mt": -4.244305007447421
+  },
+  "High Renewable Energy Costs": {
+   "ref": 160.1704992809373,
+   "campus": 176.7074511259036,
+   "campus_over_ref": 0.10324592805295985,
+   "avgscreen_change_mt": -1.5363130363353203,
+   "lrscreen_pass": 0.22062108966182545,
+   "lrscreen_change_mt": -6.792746754210157
+  },
+  "Low Natural Gas Prices": {
+   "ref": 139.20336989228338,
+   "campus": 147.04241838514153,
+   "campus_over_ref": 0.05631364024393992,
+   "avgscreen_change_mt": -2.721385085694235,
+   "lrscreen_pass": 0.2627059276323227,
+   "lrscreen_change_mt": -6.482204660205776
+  },
+  "High Natural Gas Prices": {
+   "ref": 142.70729527217887,
+   "campus": 158.10349126282213,
+   "campus_over_ref": 0.10788653769436829,
+   "avgscreen_change_mt": 0.5717166869172632,
+   "lrscreen_pass": 0.22062108966182545,
+   "lrscreen_change_mt": -5.923996186914463
+  },
+  "High Demand Growth": {
+   "ref": 149.8278864281502,
+   "campus": 165.55333492734388,
+   "campus_over_ref": 0.1049567532058513,
+   "avgscreen_change_mt": -0.16547486710402554,
+   "lrscreen_pass": 0.22062108966182545,
+   "lrscreen_change_mt": -5.132490390953721
+  }
+ },
+ "loo_avgscreen_change_mt": {
+  "Alabama": -0.2951015947880144,
+  "Arizona": -0.44752308250731715,
+  "Georgia": -1.4561000301802358,
+  "Idaho": -0.4117862951256711,
+  "Indiana": 0.031178840623106958,
+  "Iowa": 2.0463308594407157,
+  "Louisiana": -0.38306418573443696,
+  "Michigan": -0.25886603432211897,
+  "Minnesota": -0.2520952249360458,
+  "Mississippi": -0.36504726220484274,
+  "Missouri": -0.40993319860492855,
+  "Nebraska": -0.3972956009843406,
+  "Nevada": -0.44056685976824483,
+  "New Jersey": -0.5079535267503931,
+  "New Mexico": -0.5461575262899504,
+  "New York": -0.4820286862090878,
+  "North Carolina": -0.490664480951067,
+  "North Dakota": -0.4011503849572146,
+  "Ohio": 0.5575445689258017,
+  "Oklahoma": -0.19214365143990744,
+  "Oregon": 0.5920429551439512,
+  "Pennsylvania": -0.9738351931602609,
+  "South Carolina": -0.5786879524160393,
+  "Tennessee": -1.02361993617733,
+  "Texas": -1.3425951761627979,
+  "Utah": -0.4573836204545516,
+  "Virginia": -0.3750244588631978,
+  "Wisconsin": -0.8276843826185675,
+  "Wyoming": -0.40544957583977903
+ }
+}

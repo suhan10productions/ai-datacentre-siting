@@ -1,0 +1,29 @@
+{
+ "us_avg_ci": 383.674,
+ "us_gen_share_in_states_above_avg": 0.4893031139874153,
+ "epoch_us_n": 77,
+ "epoch_us_planned_gw": 33.14732971,
+ "epoch_us_planned_weighted_ci": 440.0841566451218,
+ "epoch_us_current_weighted_ci": 428.887388237479,
+ "epoch_us_count_mean_ci": 406.4506753246754,
+ "epoch_us_share_above_avg_count": 0.5454545454545454,
+ "epoch_us_share_above_avg_planned": 0.7175540294826361,
+ "epoch_us_share_above_avg_planned_ci": [
+  0.5669277125768708,
+  0.833802690555825
+ ],
+ "pdb_us_n": 1347,
+ "pdb_us_share_above_avg": 0.36896807720861174,
+ "pdb_us_mean_ci": 351.83236748329625,
+ "epoch_us_high_water_planned": 0.37906522516078717,
+ "epoch_us_high_water_count": 0.37662337662337664,
+ "pdb_us_high_water": 0.3266518188567186,
+ "us_cities_high_water_popw": 0.3649770189088102,
+ "us_cities_n": 753,
+ "epoch_global_planned_weighted_ci": 445.26404042772043,
+ "pdb_global_mean_ci": 335.3588184621314,
+ "pak_n": 17,
+ "pak_high_water": 0.8823529411764706,
+ "pak_extreme": 13,
+ "pak_grid_ci": 373.69
+}
